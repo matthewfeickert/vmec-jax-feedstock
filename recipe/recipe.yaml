@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.5"
+  version: "0.0.6"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/v/vmec-jax/vmec_jax-${{ version }}.tar.gz
-  sha256: 896b5ab7940d73ac458105125ef670f6df6195b5741676dfa9cf7f3af2dde55d
+  sha256: 0c00f3e155ac997f57d5984d6132e1bd88ddbcac80c4a622c7574f828694c633
 
 build:
   number: 0
